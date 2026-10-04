@@ -1,0 +1,11 @@
+data/
+models/
+*.pkl
+*.npy
+*.flac
+*.wav
+*.mp3
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
